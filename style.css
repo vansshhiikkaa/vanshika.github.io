@@ -12,7 +12,7 @@
 .dark {
 	--text-primary: #b6b6b6;
 	--text-secondary: #ececec;
-	--bg-primary: #4c1130;
+	--bg-primary: #130e23;
 	--bg-secondary: #741b47;
 }
 .light {
@@ -114,7 +114,7 @@ i{
     position: relative;
 }
 #navbarSupportedContent>ul>li.active>a{
-	color: #c27ba0;
+	color: #674ea7;
 	background-color: transparent;
 	transition: all 0.7s;
 }
@@ -169,7 +169,7 @@ i{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: #c27ba0;
+    background-color: #674ea7;
 }
 .main-selector .right:before{
 	bottom: 0;
@@ -374,14 +374,14 @@ h1.ml8 {
 .ml8 .circle-dark {
 	width: 2.2em;
 	height: 2.2em;
-	background-color: #c27ba0;
+	background-color: #674ea7;
 	border-radius: 3em;
 	z-index: 1;
 }
 .ml8 .circle-dark-dashed {
 	border-radius: 2.4em;
 	background-color: transparent;
-	border: 2px dashed #c27ba0;
+	border: 2px dashed #674ea7;
 	width: 2.3em;
 	height: 2.3em;
   	animation: rotating 6s linear infinite;
@@ -486,8 +486,8 @@ p.x span::before {
 }
 p.x span::after {
 	z-index: 2;
-	color: #c27ba0;
-	text-shadow: -1px 0 1px #c27ba0, 1px 0 1px rgba(0,0,0,0.8);
+	color: #674ea7;
+	text-shadow: -1px 0 1px #674ea7, 1px 0 1px rgba(0,0,0,0.8);
 	transform: rotateY(-40deg);
 }
 p.x span:hover::before {
@@ -556,7 +556,7 @@ p.x span:hover::after {
 	/* background-color: yellow; */
 	text-align: right;
 	font-size: 100px;
-	color: #c27ba0;
+	color: #674ea7;
 	display: flex;
 	flex-direction: column;
 }
@@ -637,7 +637,7 @@ p.x span:hover::after {
 	width: 100%;
 	height: auto;
 	border-radius: 50%;
-	border: 15px solid #c27ba0;
+	border: 15px solid #674ea7;
 }
 @media (max-width: 800px){
 	.intro .main-content{
@@ -678,7 +678,7 @@ p.x span:hover::after {
 	width: 100%;
 	height: 100%;
 	border-radius: 50%;
-	background-color: #c27ba0;
+	background-color: #674ea7;
 	color: white;
 	display: flex;
 	flex-direction: column;
@@ -1092,7 +1092,7 @@ progress::-webkit-progress-value {
 	width: 80%;
 	max-width: 2000px;
 	height: auto;
-	background: #c27ba0;
+	background: #674ea7;
 	border: 40px solid #3a3a3a;
 	border-radius: 10px;
 	box-shadow: 2px 0 0 #fff,  -2px 0 0 #fff,  0 -2px 0 #fff, 0 2px 0 #fff;
@@ -1355,7 +1355,7 @@ a.icon-init span{
 	text-align: center;
 	font-size: 40px;
 	font-weight: bold;
-	background: #c27ba0;
+	background: #674ea7;
 	color: white;
 }
 @media (min-width: 1400px){
