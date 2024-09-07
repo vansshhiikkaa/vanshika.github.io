@@ -1,1 +1,1 @@
-click to open the website: \href{https://vansshhiikkaa.github.io/vanshika.github.io/#}{link}
+click to open the website: (Link)[https://vansshhiikkaa.github.io/vanshika.github.io/#]
