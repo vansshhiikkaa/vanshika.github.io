@@ -339,8 +339,8 @@ main {
 /* Flip Card Styles */
 .flip-card {
   background-color: transparent;
-  width: 120px; /* Adjust width and height as needed */
-  height: 120px;
+  width: 150px; /* Adjust width and height as needed */
+  height: 150px;
   perspective: 1000px;
   margin: 0 auto; /* Center the flip card within the avatar box */
 }
@@ -379,7 +379,7 @@ main {
 
 .flip-card-back {
   background-color: var(--jet); /* Adjust background color as needed */
-  color: var(--white-2);
+  color: var(--orange-yellow-crayola);
   display: flex;
   flex-direction: column;
   justify-content: center;
