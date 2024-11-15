@@ -303,6 +303,7 @@ main {
   margin: 0px 0px;
   margin-bottom: 0px;
   min-width: 259px;
+  padding-bottom: 60px;
 }
 
 
@@ -411,7 +412,7 @@ main {
 .sidebar {
   margin: 0px 0px;
   margin-bottom: 15px;
-  max-height: 100px;
+  max-height: 180px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -1435,7 +1436,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box { border-radius: 30px; }
 
-  .avatar-box img { width: 120px; }
+  .avatar-box img { width: 150px; }
 
   .info-content .name { margin-bottom: 15px; }
 
@@ -1674,7 +1675,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-link { --fs-8: 15px; }
 
-
+  .avatar-box img {
+    width: 150px;
+    height: 150px;
+  }
 
   /**
    * ABOUT
@@ -1773,7 +1777,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 950px;
     box-shadow: var(--shadow-5);
   }
-
+.avatar-box img {
+    width: 150px;
+    height: 150px;
+  }
 
 
   /**
